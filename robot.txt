@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reginaluc.github.io/tuna128/sitemap.xml
